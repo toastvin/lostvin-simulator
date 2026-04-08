@@ -1,0 +1,9 @@
+node_modules
+.next
+.pnpm-store
+.git
+.gitignore
+coverage
+*.log
+.DS_Store
+tsconfig.tsbuildinfo
